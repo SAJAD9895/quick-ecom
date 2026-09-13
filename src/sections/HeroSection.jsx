@@ -15,13 +15,13 @@ export const HeroSection = () => {
         <div className="space-y-6 text-center lg:text-left">
           <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-slate-800/80 border border-slate-700/80 text-xs font-semibold text-brand-300 shadow-sm backdrop-blur-md">
             <Sparkles className="w-3.5 h-3.5 text-amber-400" />
-            <span>Redefining Online Shopping Speed</span>
+            <span>Redefining In quick</span>
           </div>
 
           <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold tracking-tight leading-[1.15]">
             Everything You Need.{' '}
             <span className="text-transparent bg-clip-text bg-gradient-to-r from-brand-400 to-sky-300">
-              One Quick Shop.
+              One Quick ECom.
             </span>
           </h1>
 
