@@ -26,7 +26,7 @@ export const HeroSection = () => {
           </h1>
 
           <p className="text-slate-300 text-sm sm:text-base leading-relaxed max-w-lg mx-auto lg:mx-0 font-normal">
-            Discover quality products, great deals, and a faster way to shop online with instant checkout and rapid delivery.
+            Discover quality and best selling products, great deals, and a faster way to shop online with instant checkout and rapid delivery.
           </p>
 
           <div className="flex flex-wrap items-center justify-center lg:justify-start gap-4 pt-2">
